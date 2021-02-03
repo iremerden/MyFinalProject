@@ -10,3 +10,15 @@ C:\Users\User\OneDrive\Masaüstü\MyFinalProject\DataAccess\obj\Debug\netstandar
 C:\Users\User\OneDrive\Masaüstü\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\Users\User\OneDrive\Masaüstü\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\Users\User\OneDrive\Masaüstü\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

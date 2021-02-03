@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\Business\\Business.csproj": {
+    "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\Business\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,11 +32,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\Entities\\Entities.csproj"
+              "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\ConsoleUI\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -100,14 +100,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\Business\\Business.csproj"
+              "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\Business\\Business.csproj"
               },
-              "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\Entities\\Entities.csproj"
+              "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -140,14 +140,14 @@
         }
       }
     },
-    "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -168,8 +168,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\Entities\\Entities.csproj"
+              "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -184,6 +184,10 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -205,14 +209,14 @@
         }
       }
     },
-    "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\MyFinalProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\C# DERS NOTLARI\\MyFinalProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
