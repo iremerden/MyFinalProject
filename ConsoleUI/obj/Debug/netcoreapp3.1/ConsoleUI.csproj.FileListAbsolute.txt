@@ -78,3 +78,5 @@ C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\ConsoleUI\obj\D
 C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
 C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
 C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb

@@ -22,3 +22,5 @@ C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\obj\
 C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\User\OneDrive\Masaüstü\C# DERS NOTLARI\MyFinalProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
